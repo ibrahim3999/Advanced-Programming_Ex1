@@ -1,0 +1,12 @@
+bule
+black
+red
+red
+green
+blue
+green
+red
+red
+bule
+blue
+Control-D

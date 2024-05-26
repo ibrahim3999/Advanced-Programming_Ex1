@@ -1,0 +1,14 @@
+ls: cannot access 'nofile': No such file or directory
+total 160
+-rw-rw---- 1 ibrahim ibrahim   402 May 26 18:18 file
+-rw-rw-r-- 1 ibrahim ibrahim  1074 Dec 28  2022 key.c
+-rw-rw-r-- 1 ibrahim ibrahim   247 May 26 19:23 makefile
+-rw-rw---- 1 ibrahim ibrahim    54 May 26 19:37 mylog
+-rwxrwxr-x 1 ibrahim ibrahim 30944 May 26 19:24 myshell
+-rw-rw-r-- 1 ibrahim ibrahim    26 May 26 13:22 README.md
+-rw-rw-r-- 1 ibrahim ibrahim  1443 May 26 18:53 shell2.c
+-rw-rw-r-- 1 ibrahim ibrahim  2687 Dec 21  2022 shell3.c
+-rw-rw-r-- 1 ibrahim ibrahim  8907 May 26 19:19 shell.c
+-rw-rw-r-- 1 ibrahim ibrahim  1352 May 26 19:23 shell.h
+-rw-rw-r-- 1 ibrahim ibrahim 28608 May 26 19:24 shell.o
+-rw-rw-r-- 1 ibrahim ibrahim 54501 Mar 17  2023 task1.pdf
