@@ -1,6 +1,4 @@
-//
-// Created by malaklinux on 1/31/24.
-//
+
 #include <sys/stat.h>
 #include "errno.h"
 #include "stdlib.h"
@@ -11,6 +9,9 @@
 #include "stdio.h"
 #include <signal.h>
 #include <pwd.h>
+#include <stdio.h>
+
+
 #define MAX_CMD_SIZE 1024
 #define MAX_VARS 64
 #define DOLLAR_SIGN_FOR_READ_COMMAND 1
@@ -66,4 +67,4 @@ int process(char **args);
 
 int main();
 
-#endif //ADVANCED_SHELL_H
+#endif 
