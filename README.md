@@ -1,4 +1,4 @@
-# Custom Shell
+# Advanced Programming Course Assignment 1
 
 ## Overview
 This project implements a custom shell in C that supports various basic shell functionalities, including command execution, history navigation, variable management, directory changes, and simple conditional statements. The shell has been implemented in two primary files:
